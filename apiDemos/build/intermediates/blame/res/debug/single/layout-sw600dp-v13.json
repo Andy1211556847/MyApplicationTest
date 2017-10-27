@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/layout-sw600dp-v13/resources_smallest_width_inner.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/layout-sw600dp/resources_smallest_width_inner.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/layout-sw600dp-v13/resources_smallest_width_row.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/layout-sw600dp/resources_smallest_width_row.xml"
+    }
+]

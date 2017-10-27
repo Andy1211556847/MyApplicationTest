@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi240.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/logonodpi240.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi120.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/logonodpi120.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/drawable-nodpi/logonodpi160.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/logonodpi160.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/layout-land/fragment_layout.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/layout-land/fragment_arguments.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/layout-land/fragment_arguments.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/layout-land/grid_layout_2.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/layout-land/grid_layout_2.xml"
+    }
+]

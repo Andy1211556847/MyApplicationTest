@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/changebounds_fadeout_sequential.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/move_image.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/move_image.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/explode_move_together.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/explode_move_together.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/transitions_mgr.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/transitions_mgr.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/changebounds_fadein_together.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/changebounds.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/changebounds.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/explode.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/debug/transition/activity_transition_mgr.xml",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/transition/activity_transition_mgr.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#000000"
+
+    >
+
+
+
+
+    <!-- 有些手机不支持硬件加速 需要加属性 :
+     android:layerType="software" -->
+    <LinearLayout
+        android:id="@+id/layout_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:clipChildren="false"
+        android:weightSum="3"
+        android:gravity="center"
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pagerView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

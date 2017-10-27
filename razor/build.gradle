@@ -1,0 +1,58 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "25.0.0"
+    publishNonDefault true      //为了在build/intermediates/bundles/ 能够生成release文件夹
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 9
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+}
+
+
+
+//定义一个函数，target是生成jar包的文件名，classDir是class文件所在的文件夹
+def makeJar(String target,String classDir){
+    exec{
+        executable "jar"   //调用jar
+        args "cvf",target
+        args "-C", classDir
+        args "","."
+    }
+}
+
+
+//新建一个task,名为buildLib,依赖build(build是一个自带的task)
+task buildLib(dependsOn:['build'])<< {
+    makeJar("razor.jar","build/intermediates/classes/release")
+}
+
+
+
+
+task makeJar(type: Jar) {
+    from file('build/intermediates/classes/release')
+    archiveName = 'sdk.jar'
+    destinationDir = file('build/libs')
+    //过滤不需要的class
+    exclude "**/**/BuildConfig.class"
+    exclude "**/**/BuildConfig\$*.class"
+    exclude "**/R.class"
+    exclude "**/R\$*.class"
+
+    //指定打包的class
+//    include "com/test/**/*.class"
+}
+makeJar.dependsOn(build)
+
+

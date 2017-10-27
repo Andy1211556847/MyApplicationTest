@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 雷达 -->
+    <declare-styleable name="RadarView">
+        <attr name="centerRaduis" format="dimension"/>
+        <attr name="circleCount" format="integer"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="start" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="StrokeTextView">
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="shadow" format="boolean"/>
+        <attr name="shadowRadius" format="dimension"/>
+    </declare-styleable>
+</resources>

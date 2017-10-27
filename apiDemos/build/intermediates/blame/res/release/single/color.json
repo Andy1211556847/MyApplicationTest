@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/color/common_signin_btn_text_light.xml",
+        "source": "/Users/huaxianlian/.android/build-cache/b3648ac3f89725b9c79d1ae3e2590d93e8851361/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/huaxianlian/.android/build-cache/b3648ac3f89725b9c79d1ae3e2590d93e8851361/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/huaxianlian/.android/build-cache/b3648ac3f89725b9c79d1ae3e2590d93e8851361/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/huaxianlian/.android/build-cache/b3648ac3f89725b9c79d1ae3e2590d93e8851361/output/res/color/wallet_primary_text_holo_light.xml"
+    }
+]

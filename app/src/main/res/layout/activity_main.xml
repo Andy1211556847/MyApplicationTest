@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView android:id="@+id/activity_main"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    >
+
+
+
+    <LinearLayout
+        android:id="@+id/layout_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/btn_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="画廊ViewPager"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_path"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View path 动画"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_start_ac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="启动Activity"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_media"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="视频播放"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_camera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="启动相机"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_yuv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="yuv数据解析"
+            android:textAllCaps="false"
+            />
+
+
+        <Button
+            android:id="@+id/btn_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="布局测试"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+</ScrollView>

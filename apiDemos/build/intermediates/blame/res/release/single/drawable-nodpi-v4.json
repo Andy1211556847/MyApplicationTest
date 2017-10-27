@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/pencil.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/pencil.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/block.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/block.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/scissors.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/scissors.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/ducky.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/ducky.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/ball.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/ball.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/woot.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/woot.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/frantic.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/frantic.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/mug.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/mug.jpg"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-nodpi-v4/jellies.jpg",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-nodpi/jellies.jpg"
+    }
+]

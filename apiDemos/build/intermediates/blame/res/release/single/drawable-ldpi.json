@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-ldpi/reslogo120dpi.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-ldpi/reslogo120dpi.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-ldpi/logo120dpi.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-ldpi/logo120dpi.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-ldpi/smlnpatch120dpi.9.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-ldpi/smlnpatch120dpi.9.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-ldpi/stylogo120dpi.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-ldpi/stylogo120dpi.png"
+    },
+    {
+        "merged": "/Users/huaxianlian/workspace/MyApplication/apiDemos/build/intermediates/res/merged/release/drawable-ldpi/npatch120dpi.9.png",
+        "source": "/Users/huaxianlian/workspace/MyApplication/apiDemos/src/main/res/drawable-ldpi/npatch120dpi.9.png"
+    }
+]
