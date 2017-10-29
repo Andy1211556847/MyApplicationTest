@@ -21,6 +21,7 @@ import com.hxl.test.views.LoginView;
 public class LoginActivity extends Activity implements LoginView{
     private EditText mLoginName;
     private EditText mPasswrod;
+    private ProgressDialog mDialog;
 
     LoginPresenter mLoginPresenter;
     @Override
@@ -37,17 +38,18 @@ public class LoginActivity extends Activity implements LoginView{
         });
 
         mLoginPresenter = new LoginPresenterImpl(this);
+        mDialog = new ProgressDialog(this);
 
     }
 
     @Override
     public void showLoading() {
-        new ProgressDialog(this).show();
+        mDialog.show();
     }
 
     @Override
     public void hideLogin() {
-        new ProgressDialog(this).hide();
+        mDialog.hide();
     }
 
     @Override
